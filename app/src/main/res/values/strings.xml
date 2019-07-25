@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitExample</string>
+    <string name="profile_email">Email: %s</string>
+    <string name="profile_name">Name: %s</string>
+</resources>
